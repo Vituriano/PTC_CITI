@@ -6,8 +6,8 @@ body, html {
 
 .ball {
   border-radius: 50%;
-  border: 3px solid rgb(216, 116, 255);
-  background-color: rgb(255, 77, 136);
+  border: 3px solid rgba(255, 187, 0, 0.623);
+  background-color: rgb(255, 187, 0);
   box-shadow:0px 0px 10px 4px rgb(255, 255, 255);
   width: 20px;
   height: 20px;
@@ -23,8 +23,8 @@ body, html {
   position: absolute;
   width: 5px;
   height: 5px;
-  background-color: rgb(98, 128, 98);
-  border: 3px solid rgb(0, 255, 0);
+  background-color: rgb(255, 255, 255);
+  border: 3px solid rgba(255, 255, 255, 0.513);
   box-shadow:0px 0px 6px 3px rgb(255, 255, 255);
   border-radius: 50%;
 }
